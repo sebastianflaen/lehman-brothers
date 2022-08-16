@@ -6,3 +6,5 @@
 
 ### 3) Backtest stratgy
 
+### 4) Implement the strategy in production
+
