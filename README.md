@@ -8,3 +8,4 @@
 
 ### 4) Implement the strategy in production
 
+### Cant wait to get started with the project! 
